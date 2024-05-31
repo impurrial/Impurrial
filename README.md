@@ -14,6 +14,7 @@ I study  **IT Applications in Business**
 - 🌱 Currently learning C#
 - ✍ I write. Technically and journalistically. 
 - ❤ Working on a roguelike in Unity.
+- ❤ Working on a React + C# web app.
 <!--End Intro-->
 
 
